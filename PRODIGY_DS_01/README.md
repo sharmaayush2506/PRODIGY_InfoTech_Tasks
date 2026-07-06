@@ -14,9 +14,7 @@ World Bank Population Dataset (`API_SP.POP.TOTL`) — country-wise total populat
 ## Tools Used
 Python, Pandas, Matplotlib
 
-## Key Insight
-[Write 1–2 lines based on what your charts actually showed — e.g., "Population distribution across countries is heavily right-skewed, with most countries having small populations and a few countries (like India, China) driving the tail."]
+
 
 ## Files
 - `task1.ipynb` — full code and visualizations
-- `data/` — dataset files used
